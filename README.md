@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mnegan
-- 👀 I’m interested in FPGA RISCV
+- 👀 I’m interested in ANALOG IC vertification，SerDes
 - 🌱 I’m currently learning  C C ++ LINUX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
